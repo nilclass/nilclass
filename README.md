@@ -37,7 +37,7 @@ Languages I've also come in contact with, but rarely use:
 </tr>
 <tr>
 <td>
-  🌍️ I live in **Berlin**, Germany 
+  🌍️ I live in Berlin, Germany 
 </td>
 </tr>
 </tbody>
