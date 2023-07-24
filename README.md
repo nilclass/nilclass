@@ -18,6 +18,7 @@ Recently I've also become interested in **embedded development**.
 
 Languages I've also come in contact with, but rarely use:
 
+- **Elixir**
 - **Python**
 - **Go**
 - **C++**
