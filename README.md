@@ -2,7 +2,7 @@
 
 🕴 I have been working as a **full-stack web developer** since 2008.
 
-Recently I've also become interested in **embedded development**, and looking for work in that area.
+Recently I've also become interested in **embedded development**.
 
 <table>
 <tbody>
